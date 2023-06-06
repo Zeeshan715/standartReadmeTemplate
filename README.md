@@ -1,28 +1,28 @@
 # Title
-The title of the project gives a brief overview of its purpose and main objective.
+The project's name provides a quick summary of its aim and main purpose.
 # Motivation
-In this section, the project creator explains the reasons behind undertaking the project and their motivation for pursuing it.
+The project's founder provides an explanation of the project's objectives and the driving forces behind its pursuit in this section.
 # Coding Style
-This lets the users know that you have used a particular code style and helps them when contributing to your project so that the whole project code style stays the same. Some common code styles: standard, xo, etc.
+This informs the users that you have adopted a specific coding style and makes it easier for them to contribute to your project while maintaining a consistent coding style. Typical coding patterns include standard, xo, etc.
 # Interface Screenshots
-As the saying goes, a picture is equal to a thousand words. Most people will be interested if there is a visual representation of what the project is about. It helps them understand better. A visual representation can be snapshots of the project or a video of the functioning of the project.
+A picture is worth a thousand words, as the adage goes. If the project has a visual depiction, the majority of people will be interested. It aids in their understanding. Snapshots of the project or a video showing it in action can serve as a visual representation.
 # Technology & Framework used
-This is used to help the reader understand which tech or frameworks have been used to do the project. It helps the reader understand which all tech stack he has to be familiar with to understand the whole project.
+This is done to make it clear to the reader what tools or frameworks were utilised to complete the project. It aids the reader in comprehending the entire tech stack required to comprehend the entire project.
 # Features
-This is where you write what all extra features have been done in your project. Basically, this is where you try to make your project stand out from the rest.
+This is where you include any additional features that were added to your project. In essence, this is where you attempt to distinguish your project from the competition.
 # How to Run?
-If your project needs the installation of certain software or configurations to the system. Do mention it in this section as it helps a lot for the reader to use your project. The steps mentioned should be precise and explanatory.  If possible, you can add links that can help them better understand how to configure/install the necessary files or software.
+If a certain piece of software or system configurations are required for your project. Please include it in this part as it greatly aids the reader's utilisation of your project. The steps listed should be clear and detailed.  If at all possible, include links that will aid in their understanding of how to configure or install the required files or software.
 # API references
-If your project is small, then we can add the reference docs in the readme. For larger projects, it is better to provide links to where the API reference documentation is documented.
+We can include the reference docs in the readme if your project isn't too large. It is preferable to offer links to the locations where the API reference documentation is documented for bigger projects.
 # Tests
-This is the section where you mention all the different tests that can be performed with code examples
+In this part, you include all the various tests that may be run along with code examples.
 # Build Status / Errors
-This basically explains the current build status of the project. If there is a bug /error which needs addressing. This is done so for two different reasons The user understands that this is an issue and does not spend more time figuring if it was a mistake on their part.A developer who is familiar with the issue can suggest some solutions directly without going through the whole code.
+This essentially explains the project's current build state. If a bug or error exists and has to be fixed. This is carried out for two distinct purposes. The user is aware that this is a problem and does not waste extra time wondering if they made a mistake.Without reading the entire code, a developer who is familiar with the issue can offer some immediate fixes.
 # How to Use?
-As I have mentioned before, you never know who is going to read your readme. So it is better to provide information on how to use your project. A step-by-step guide is best suited for this purpose. It is better to explain the steps as detailed as possible because it might be a beginner who is reading it.
+You never know who will read your readme, as I have already stated. Therefore, it is preferable to give instructions for using your project. For this, a step-by-step manual is the ideal option. Because a newbie might be reading it, it is preferable to describe the stages in as much detail as possible.
 # Contribute
-This is where you let them know that they can contribute and help you out. A guideline on how to contribute is also helpful
+You should now inform them of their ability to assist you and participate. It is also useful to have instructions on how to contribute.
 # Credits
-Giving proper credit is most important. Mention any links/repos which helped you or inspired you to build this project. It can be a blog, another open source project, or just people who have contributed to building this project.
+Giving credit where credit is due is crucial. Mention any resources or links that you used to construct this project or that encouraged you to do so. It may be a blog, another open source undertaking, or simply the people that helped develop this project.
 # License
-A short description of the license. (MIT, Apache, etc.)
+A succinct summary of the licence. Apache, MIT, etc.
